@@ -1,0 +1,3 @@
+class Man extends BaseClass{
+    
+}
